@@ -48,5 +48,5 @@
     a more proactive financial strategy.
 
 - **Role of reports:**
-    he reports generated through financial analytics play a pivotal role in aligning financial planning with strategic goals. Beyond that, these reports serve as a 
-    key instrument in instilling confidence in the organization's financial outlook, fostering transparency and trust among stakeholders.
+    The reports generated through financial analytics play a pivotal role in aligning financial planning with strategic goals. Beyond that, these reports serve as 
+    a key instrument in instilling confidence in the organization's financial outlook, fostering transparency and trust among stakeholders.
