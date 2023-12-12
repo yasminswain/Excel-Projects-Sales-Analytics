@@ -38,7 +38,7 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/yasminswain/Excel-Projects-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
-- **Purpose of sales analytics:**
+- **Purpose of financial analytics:**
     The primary objective of incorporating financial analytics is to conduct a comprehensive evaluation of the organization's financial performance. This not only 
     supports informed decision-making but also serves as a facilitator for effective communication with stakeholders.
 
